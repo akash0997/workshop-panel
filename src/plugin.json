@@ -8,7 +8,7 @@
   "info": {
     "description": "Grafana panel for rss feeds",
     "author": {
-      "name": "Grafana Labs",
+      "name": "Akash",
       "url": "https://grafana.com"
     },
     "keywords": ["Workshop Panel"],
